@@ -20,7 +20,10 @@
 ### Геномный браузер: иллюстрации
 ![image](https://user-images.githubusercontent.com/71763293/230197992-b488fd01-44be-41a4-a3d4-33409e4ce619.png)
 ![image](https://user-images.githubusercontent.com/71763293/230215869-d32451fc-97ab-4c90-a694-725b7de3c5e6.png)
-
+![image](https://user-images.githubusercontent.com/71763293/230216001-3b7c104a-24f7-48bf-bc19-35bd42f19d7a.png)
 
 ### Ссылка на Colab, где были запущены команды
 https://colab.research.google.com/drive/1WvSZ6zRtCc6LZA18crXjlZJRgzOPyv5A?usp=sharing
+
+### Бонус
+Файл HUVEC_12_dense_modified.rar, где заменены цифры на мои лейблы (объём потребовал архивацию)
