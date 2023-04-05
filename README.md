@@ -17,8 +17,10 @@
 ![image](https://user-images.githubusercontent.com/71763293/230209764-7fadc6ab-edb1-430d-b6e2-8ecfd25e8c3f.png)
 
 
-### Геномный браузер
+### Геномный браузер: иллюстрации
 ![image](https://user-images.githubusercontent.com/71763293/230197992-b488fd01-44be-41a4-a3d4-33409e4ce619.png)
+![image](https://user-images.githubusercontent.com/71763293/230215869-d32451fc-97ab-4c90-a694-725b7de3c5e6.png)
+
 
 ### Ссылка на Colab, где были запущены команды
 https://colab.research.google.com/drive/1WvSZ6zRtCc6LZA18crXjlZJRgzOPyv5A?usp=sharing
