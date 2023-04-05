@@ -13,6 +13,7 @@
 ### Эпигенетические типы
 
 ### Геномный браузер
+![image](https://user-images.githubusercontent.com/71763293/230197992-b488fd01-44be-41a4-a3d4-33409e4ce619.png)
 
 ### Ссылка на Colab, где были запущены команды
 https://colab.research.google.com/drive/1WvSZ6zRtCc6LZA18crXjlZJRgzOPyv5A?usp=sharing
